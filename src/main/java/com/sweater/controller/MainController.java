@@ -1,4 +1,4 @@
-package com.sweater;
+package com.sweater.controller;
 
 import com.sweater.domain.Message;
 import com.sweater.repos.MessageRepo;
@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @Controller
-public class GreetingController {
+public class MainController {
     @Autowired
     private MessageRepo messageRepo;
 
