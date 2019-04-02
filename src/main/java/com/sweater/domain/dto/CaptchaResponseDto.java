@@ -1,5 +1,4 @@
 package com.sweater.domain.dto;
-
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
